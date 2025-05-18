@@ -2,8 +2,6 @@
 
 We finetune the pretrained VGG16 and ResNet50 architectures to classify for a Dogs and Cats dataset.
 
-The dataset used is available here: https://www.kaggle.com/datasets/salader/dogs-vs-cats
-
 # Dogs vs Cats Classification using Transfer Learning
 
 This project demonstrates binary image classification (dogs vs. cats) using transfer learning with pre-trained VGG16 and ResNet50 models in TensorFlow/Keras.
@@ -29,7 +27,7 @@ Both models are trained and evaluated on a dataset of dog and cat images using t
 
 ## Dataset
 
-- **Source:[Kaggle](https://www.kaggle.com/datasets/chetankv/dogs-cats-images)** Directory-based dataset with the following structure:
+- **Source:[Dataset](https://www.kaggle.com/datasets/chetankv/dogs-cats-images)** Directory-based dataset with the following structure:
 dataset/
 train/
 cats/
